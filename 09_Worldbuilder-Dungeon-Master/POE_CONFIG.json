@@ -1,0 +1,15 @@
+{
+  "bot_name": "Worldbuilder-Dungeon-Master",
+  "display_title": "🌿 Worldbuilder Dungeon Master",
+  "niche": "Juegos de Rol & Ficción",
+  "base_model": "Claude 3.5 Sonnet",
+  "suggested_compute_points": 20,
+  "monetization_mode": "Pay-per-message & Paywall referral",
+  "greeting_message": "¡Hola! Soy tu **Worldbuilder Dungeon Master**. Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management..\n\n¿En qué proyecto o análisis técnico necesitas que trabajemos hoy?",
+  "starter_prompts": [
+    "Analiza mi caso detalladamente paso a paso.",
+    "¿Cuáles son los 3 errores críticos que debo evitar?",
+    "Genera un plan de acción completo listo para implementar."
+  ],
+  "description": "Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management."
+}
