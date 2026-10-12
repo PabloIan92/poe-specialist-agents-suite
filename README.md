@@ -31,7 +31,7 @@ Click any bot to start an interactive session directly on Poe:
 | **🧠 Prompt Architect Pro** | [poe.com/PromptArchitectPro](https://poe.com/PromptArchitectPro) | Advanced prompt engineering, few-shot conditioning, CoT | Claude 3.5 Sonnet |
 | **🗡️ Ethical Hacker Auditor** | [poe.com/EthicalHackerPro](https://poe.com/EthicalHackerPro) | Offensive security, OWASP Top 10 vulnerabilities, cloud audit | Claude 3.5 Sonnet |
 | **📈 SEO Dominance Strategist** | [poe.com/SEODominancePro](https://poe.com/SEODominancePro) | Technical SEO, search intent clusters, SERP ranking playbooks | GPT-5.4 |
-| **🎲 Dungeon Master Pro** | [poe.com/DungeonMasterPro](https://poe.com/DungeonMasterPro) | Tabletop D&D 5e mechanics, combat balancing, dynamic lore | Claude 3.5 Sonnet |
+| **🎲 RPG Dungeon Pro** | [poe.com/RPGDungeonPro](https://poe.com/RPGDungeonPro) | Tabletop D&D 5e mechanics, combat balancing, dynamic lore | Claude 3.5 Sonnet |
 | **🚀 Startup Pitch Architect** | [poe.com/StartupPitchPro](https://poe.com/StartupPitchPro) | Pre-Seed to Series A pitch decks, VC objection prep | Claude 3.5 Sonnet |
 | **⚙️ ML Systems Architect** | [poe.com/MLSystemsArchPro](https://poe.com/MLSystemsArchPro) | Production RAG design, LLMOps, model serving blueprints | Claude 3.5 Sonnet |
 | **✍️ Executive Ghostwriter** | [poe.com/ExecutiveGhostPro](https://poe.com/ExecutiveGhostPro) | Thought leadership essays, C-level manifestos, op-eds | Claude 3.5 Sonnet |
